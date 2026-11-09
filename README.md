@@ -6,7 +6,7 @@
 
 | MAX30102 모듈 표기 | ESP32 핀 |
 | --- | --- |
-| VCC 또는 VIN | 3V3 |
+| VIN | 3V3 |
 | GND | GND |
 | SDA | GPIO21 |
 | SCL | GPIO22 |
